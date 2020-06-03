@@ -1,0 +1,2 @@
+# blueprint
+Base for projects
